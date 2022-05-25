@@ -1,0 +1,124 @@
+.navbar{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
+
+.logo{
+    width: 150px;
+    padding-right: 30px;
+}
+
+.row {
+    padding: 10px;
+}
+
+.featurette-heading{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.historiaimg{
+    background: url(../image/historiaa1.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.andyimg1{
+    background: url(../image/andy1.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.roy1img{
+    background: url(../image/roy1.jpeg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.keith1img{
+    background: url(../image/keith1.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.flex-container{
+    display: flex;
+    
+}
+.tituloqs{
+    font-family: 'Bebas Neue', cursive;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.texto1{
+    padding: 10px;
+}
+
+.container-all {
+    width: 100%;
+    box-sizing: border-box;
+}
+.container-all img {
+    width: 300px;
+    float: left;
+    padding-right: 30px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.flex-container2{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.flex-container3{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+
+.titulop{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.item {
+    transition: .5s ease-in-out;
+}
+
+.item:hover {
+    filter: brightness(80%);
+}
+
+.titulo {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.titulo-pp{
+    font-family: 'Bebas Neue', cursive;
+    padding-top: 50px;
+}
+button {
+    color: black;
+    border: 2px solid #23B2F9;
+    background: none;
+    border-radius: 15px;
+}
+
+.menos {
+    display: none;
+}
+
+.mas {
+    display: block;
+}
+
+#texto2 {
+    display: none;
+}
+
